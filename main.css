@@ -1,0 +1,537 @@
+@font-face {
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Navbar */
+
+.headerm{
+  display: none;
+}
+
+#navbarNav{
+  display: flex;
+  justify-content: flex-end;
+}
+
+a {
+  color: #303134;
+}
+a:hover{
+  color: #1BD0B7;
+}
+
+.carousel-inner img {
+   width: 100%;
+   height: 100%;
+ }
+
+/* Carousel */
+
+.dollar{
+  font-family: "Raleway Bold";
+  font-size: 21px;
+  color: #006CD1;
+  position: relative;
+  bottom: 15.5rem;
+  z-index: 2;
+}
+
+.layer1{
+  height: 5rem !important;
+  width: 20rem !important;
+  position: relative;
+  bottom: 20rem;
+  z-index: 1;
+}
+
+.discover{
+  font-family: "Arial Regular";
+  font-size: 78px;
+  color: #ffffff;
+  position: relative;
+  bottom: 15rem;
+}
+
+.exp{
+  font-family: "Raleway SemiBold";
+  font-size: 18px;
+  color: #ffffff;
+  position: relative;
+  bottom: 15rem;
+}
+
+.vague{
+  margin-top: -3rem;
+}
+.vagues{
+  display: flex;
+  justify-content: center;
+  margin-top: -1rem;
+}
+.moustache{
+  display: flex;
+  justify-content: center;
+  margin-top: -30rem;
+  margin-bottom: 30rem;
+}
+
+/* 2e Partie */
+
+.partie2{
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+}
+
+.discover2{
+  font-family: "Raleway SemiBold";
+  font-size: 16px;
+  color: #8D8D8D;
+}
+
+.services{
+  font-family: "Raleway SemiBold";
+  font-size: 26px;
+  color: #1A1A1B;
+}
+
+.textes{
+  font-family: "Raleway Medium";
+  font-size: 16px;
+  color: #8D8D8D;
+}
+
+.titres{
+  font-family: "Raleway SemiBold";
+  font-size: 18px;
+  color: #1A1A1B
+}
+
+.famille{
+  height: 12.5rem;
+}
+
+.bateau{
+  height: 12rem;
+  width: 19rem;
+}
+.feu{
+  height: 12rem;
+  width: 19rem;
+}
+.reunion{
+  height: 12rem;
+  width: 19rem;
+}
+
+/* 3e Partie */
+
+.palmiers{
+  width: 100%;
+}
+
+.video{
+  position: relative;
+  bottom: 25rem;
+}
+
+.titre3{
+  position: relative;
+  bottom: 30rem;
+  display: flex;
+  justify-content: center;
+  font-family: "Raleway SemiBold";
+  font-size: 16px;
+  color: #ffffff;
+}
+.texte3{
+  position: relative;
+  bottom: 30rem;
+  display: flex;
+  justify-content: center;
+  font-family: "Raleway SemiBold";
+  font-size: 26px;
+  color: #ffffff;
+}
+
+/* Partie 4 */
+
+.partie4{
+  margin-top: -12rem;
+  margin-bottom: 12rem;
+}
+.nombres{
+  font-family: "Lato Bold";
+  font-size: 32px;
+  color: #1A1A1B;
+  display: flex;
+  justify-content: center;
+}
+
+.texte4{
+  font-family: "Raleway SemiBold";
+  font-size: 16px;
+  color: #1A1A1B;
+  display: flex;
+  justify-content: center;
+}
+
+.icones{
+  margin-left: 7.5rem;
+}
+
+/* Partie 5 */
+
+.partie5{
+ margin-bottom: 5rem;
+}
+
+.voyages{
+  margin-left: 5rem;
+}
+
+.titre5{
+  font-family: "Raleway SemiBold";
+  font-size: 16px;
+  color: #8D8D8D;
+  display: flex;
+  justify-content: center;
+}
+.texte5{
+  font-family: "Raleway SemiBold";
+  font-size: 26px;
+  color: #1A1A1B;
+  display: flex;
+  justify-content: center;
+}
+
+.nuit{
+  font-family: "Raleway Medium";
+  font-size: 14px;
+  color: #1A1A1B;
+  display: flex;
+  justify-content: center;
+}
+.tour{
+  font-family: "Raleway Medium";
+  font-size: 18px;
+  color: #4B54FA;
+  display: flex;
+  justify-content: center;
+}
+.jaune{
+ font-family: "Raleway SemiBold";
+ font-size: 14px;
+ color: #1A1A1B;
+ background-color: #FED701;
+ width: 5rem;
+ position: relative;
+ bottom: 22rem;
+ left: 6rem;
+}
+
+/* Partie 6 */
+
+.surf{
+  width: 100%;
+  z-index: 1;
+}
+.barre{
+  display: flex;
+  justify-content: center;
+}
+.titre6{
+  position: relative;
+  bottom: 20rem;
+  font-family: "Raleway SemiBold";
+  font-size: 34px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  }
+.texte6{
+  position: relative;
+  bottom: 19rem;
+  font-family: "Raleway Medium";
+  font-size: 18px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  }
+
+.recherche{
+  height: 60px;
+  width: 25rem;
+  border-radius: 20px;
+  margin-top: -16rem;
+}
+.bouton1{
+  border-radius: 20px;
+  height: 3rem;
+  width: 8rem;
+  font-family: "Raleway SemiBold";
+  font-size: 16px;
+  color: #08AEEA;
+  margin-top: -15.7rem;
+  margin-left: 2rem;
+}
+
+/* Partie 7 */
+
+.espace{
+  margin-top: 5rem;
+}
+
+.titre7{
+  font-family: "Raleway SemiBold";
+  font-size: 16px;
+  color: #8D8D8D;
+}
+
+.soust7{
+  font-family: "Raleway SemiBold";
+  font-size: 26px;
+  color: #1A1A1B;
+}
+
+.pp{
+  position: relative;
+  left: 10rem;
+  top: 3rem;
+}
+
+.oui{
+  background-color: #F4F4F4;
+  height: 40rem;
+}
+.oui2{
+  background-color: #DEDEDE;
+  height: 40rem;
+}
+.oui3{
+  background-color: #BCBCBC;
+  height: 40rem;
+}
+
+.nom{
+  font-family: "Raleway SemiBold";
+  font-size: 18px;
+  color: #4B54FA;
+  position: relative;
+  top: 5rem;
+}
+
+.texte7{
+  font-family: "Raleway Medium";
+  font-size: 16px;
+  color: #1A1A1B;
+  position: relative;
+  top: 8rem;
+}
+
+.guillemet{
+  display: flex;
+  justify-content: center;
+
+}
+
+/* Partie 8 */
+
+.partie8{
+  margin-top: -35rem;
+  margin-bottom: 18rem;
+}
+
+.montagne{
+  width: 100%;
+}
+.titre8{
+  font-family: "Raleway Medium";
+  font-size: 36px;
+  color: #ffffff;
+  position: relative;
+  bottom: 15rem;
+  display: flex;
+  justify-content: center;
+}
+.book{
+  font-family: "Raleway SemiBold";
+  font-size: 16px;
+}
+.d{
+  display: flex;
+  justify-content: center;
+  margin-top: -12rem;
+}
+
+/* Partie 9 */
+
+.partie9{
+  margin-top: 4rem;
+  margin-bottom: 6rem;
+}
+
+.desti{
+  font-family: "Raleway SemiBold";
+  font-size: 16px;
+  color: #8D8D8D;
+  display: flex;
+  justify-content: center;
+}
+.popular{
+  font-family: "Raleway SemiBold";
+  font-size: 26px;
+  color: #1A1A1B;
+  display: flex;
+  justify-content: center;
+}
+
+.titre9{
+  font-family: "Raleway SemiBold";
+  font-size: 30px;
+  color: #FEFEFF;
+  position: relative;
+  bottom: 5rem;
+}
+.prix{
+  font-family: "Montserrat Medium";
+  font-size: 14px;
+  color: #FEFEFF;
+  position: relative;
+  bottom: 6rem;
+  display: flex;
+  justify-content: flex-start;
+}
+.rond{
+  position: relative;
+  bottom: 11rem;
+  left: 11rem;
+}
+
+
+/* Partie 10 */
+.rectangle{
+  background-color: #000000;
+}
+
+.map{
+  width: 100%
+}
+
+.titre10{
+  font-family: "Raleway Bold";
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.liste{
+  font-family: "Raleway Medium";
+  font-size: 16px;
+  color: #DCDBDB;
+}
+
+.mail{
+  color: #F0F1F3;
+  height: 48px;
+  width: 343px;
+}
+
+.sub{
+  color: #FFFFFF;
+  font-family: "Roboto Regular";
+  font-size: 16px;
+}
+.bouton2{
+  color: #ffffff;
+  background-color: #08AEEA;
+  border: none;
+  height: 48.6px;
+  width: 5rem;
+  position: relative;
+  right: 1rem;
+}
+
+.copy{
+  font-family: "Raleway Medium";
+  font-size: 20px;
+  color: #DCDBDB;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 640px) {
+  body {
+    background-color: #AA4570;
+}
+
+/* Burger Menu */
+
+#navbarNav{
+  display: none;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.active {
+  background-color: ;
+  color: red;
+}
+.logo{
+  display: none;
+}
+.headerm{
+  display: block;
+}
+/*.partie2{
+  display: none;
+}
+.partie3{
+  display: none;
+}*/
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
