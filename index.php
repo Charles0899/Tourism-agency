@@ -139,7 +139,7 @@
           <p class="texte6">Maximum doscout 1000$ per person</p>
           <div class="barre">
           <input class="recherche" type="text" placeholder="Enter your email"/>
-          <button class="bouton1 btn-light" type="button" name="button">SUBSCRIBE</button>
+          <button class="bouton1 btn-light" type="button" name="button" href="connexion.php">SUBSCRIBE</button>
         </div>
       </div>
 
@@ -244,7 +244,6 @@
             </div>
           </div>
         </div>
-
-
+<?php include('backoffice.php'); ?>
 
 <?php include('footer.php'); ?>

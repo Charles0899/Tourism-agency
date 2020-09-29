@@ -38,7 +38,7 @@
           </div>
         </div>
       </nav>
-       <div>
+    <div>
 
 <!-- Simulate a smartphone / tablet -->
       <div class="headerm">

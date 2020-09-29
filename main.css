@@ -31,7 +31,7 @@ a:hover{
 /* Carousel */
 
 .dollar{
-  font-family: "Raleway Bold";
+  font-family: "Raleway Bold", sans-serif;
   font-size: 21px;
   color: #006CD1;
   position: relative;
@@ -48,7 +48,7 @@ a:hover{
 }
 
 .discover{
-  font-family: "Arial Regular";
+  font-family: "Arial Regular", sans-serif;
   font-size: 78px;
   color: #ffffff;
   position: relative;
@@ -56,7 +56,7 @@ a:hover{
 }
 
 .exp{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 18px;
   color: #ffffff;
   position: relative;
@@ -86,25 +86,25 @@ a:hover{
 }
 
 .discover2{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 16px;
   color: #8D8D8D;
 }
 
 .services{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 26px;
   color: #1A1A1B;
 }
 
 .textes{
-  font-family: "Raleway Medium";
+  font-family: "Raleway Medium", sans-serif;
   font-size: 16px;
   color: #8D8D8D;
 }
 
 .titres{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 18px;
   color: #1A1A1B
 }
@@ -142,7 +142,7 @@ a:hover{
   bottom: 30rem;
   display: flex;
   justify-content: center;
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 16px;
   color: #ffffff;
 }
@@ -151,7 +151,7 @@ a:hover{
   bottom: 30rem;
   display: flex;
   justify-content: center;
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 26px;
   color: #ffffff;
 }
@@ -163,7 +163,7 @@ a:hover{
   margin-bottom: 12rem;
 }
 .nombres{
-  font-family: "Lato Bold";
+  font-family: "Lato Bold", sans-serif;
   font-size: 32px;
   color: #1A1A1B;
   display: flex;
@@ -171,7 +171,7 @@ a:hover{
 }
 
 .texte4{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 16px;
   color: #1A1A1B;
   display: flex;
@@ -193,14 +193,14 @@ a:hover{
 }
 
 .titre5{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 16px;
   color: #8D8D8D;
   display: flex;
   justify-content: center;
 }
 .texte5{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 26px;
   color: #1A1A1B;
   display: flex;
@@ -208,21 +208,21 @@ a:hover{
 }
 
 .nuit{
-  font-family: "Raleway Medium";
+  font-family: "Raleway Medium", sans-serif;
   font-size: 14px;
   color: #1A1A1B;
   display: flex;
   justify-content: center;
 }
 .tour{
-  font-family: "Raleway Medium";
+  font-family: "Raleway Medium", sans-serif;
   font-size: 18px;
   color: #4B54FA;
   display: flex;
   justify-content: center;
 }
 .jaune{
- font-family: "Raleway SemiBold";
+ font-family: "Raleway SemiBold", sans-serif;
  font-size: 14px;
  color: #1A1A1B;
  background-color: #FED701;
@@ -245,7 +245,7 @@ a:hover{
 .titre6{
   position: relative;
   bottom: 20rem;
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 34px;
   color: #ffffff;
   display: flex;
@@ -254,7 +254,7 @@ a:hover{
 .texte6{
   position: relative;
   bottom: 19rem;
-  font-family: "Raleway Medium";
+  font-family: "Raleway Medium", sans-serif;
   font-size: 18px;
   color: #ffffff;
   display: flex;
@@ -271,7 +271,7 @@ a:hover{
   border-radius: 20px;
   height: 3rem;
   width: 8rem;
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 16px;
   color: #08AEEA;
   margin-top: -15.7rem;
@@ -285,13 +285,13 @@ a:hover{
 }
 
 .titre7{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 16px;
   color: #8D8D8D;
 }
 
 .soust7{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 26px;
   color: #1A1A1B;
 }
@@ -316,7 +316,7 @@ a:hover{
 }
 
 .nom{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 18px;
   color: #4B54FA;
   position: relative;
@@ -324,7 +324,7 @@ a:hover{
 }
 
 .texte7{
-  font-family: "Raleway Medium";
+  font-family: "Raleway Medium", sans-serif;
   font-size: 16px;
   color: #1A1A1B;
   position: relative;
@@ -348,7 +348,7 @@ a:hover{
   width: 100%;
 }
 .titre8{
-  font-family: "Raleway Medium";
+  font-family: "Raleway Medium", sans-serif;
   font-size: 36px;
   color: #ffffff;
   position: relative;
@@ -357,7 +357,7 @@ a:hover{
   justify-content: center;
 }
 .book{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 16px;
 }
 .d{
@@ -374,14 +374,14 @@ a:hover{
 }
 
 .desti{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 16px;
   color: #8D8D8D;
   display: flex;
   justify-content: center;
 }
 .popular{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 26px;
   color: #1A1A1B;
   display: flex;
@@ -389,14 +389,14 @@ a:hover{
 }
 
 .titre9{
-  font-family: "Raleway SemiBold";
+  font-family: "Raleway SemiBold", sans-serif;
   font-size: 30px;
   color: #FEFEFF;
   position: relative;
   bottom: 5rem;
 }
 .prix{
-  font-family: "Montserrat Medium";
+  font-family: "Montserrat Medium", sans-serif;
   font-size: 14px;
   color: #FEFEFF;
   position: relative;
@@ -421,13 +421,13 @@ a:hover{
 }
 
 .titre10{
-  font-family: "Raleway Bold";
+  font-family: "Raleway Bold", sans-serif;
   font-size: 20px;
   color: #FFFFFF;
 }
 
 .liste{
-  font-family: "Raleway Medium";
+  font-family: "Raleway Medium", sans-serif;
   font-size: 16px;
   color: #DCDBDB;
 }
@@ -440,7 +440,7 @@ a:hover{
 
 .sub{
   color: #FFFFFF;
-  font-family: "Roboto Regular";
+  font-family: "Roboto Regular", sans-serif, sans-serif;
   font-size: 16px;
 }
 .bouton2{
@@ -454,7 +454,7 @@ a:hover{
 }
 
 .copy{
-  font-family: "Raleway Medium";
+  font-family: "Raleway Medium", sans-serif;
   font-size: 20px;
   color: #DCDBDB;
 }
@@ -517,13 +517,6 @@ a:hover{
     width: 100%;
     height: 100%;
   }
-
-
-
-
-
-
-
 
 
 
